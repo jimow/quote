@@ -1,1 +1,16 @@
-<p>quote works!</p>
+<div class="container">
+    <h1>Famous Quotes</h1>
+    <hr>
+    <div class="col-sm-6" >  
+      <ul>
+        <li *ngFor='let quote of quotes; let i = index'>
+        <p appHighlight>  {{quote.quote}}</p>
+   
+       <button (click)='toggleDetails(i)' class=" btn btn-primary">Toggle Details</button>
+      
+       <p><app-quote-detail *ngIf='quote.showAuthor' [quote]='quote' (isComplete) = 'deleteQuote($event,i)'></app-quote-detail></p>
+
+        </li>
+      </ul>
+    </div>
+  </div>
