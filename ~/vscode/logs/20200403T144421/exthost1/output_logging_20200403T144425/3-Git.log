@@ -1,0 +1,188 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/jamal/quote
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/jamal/quote/src/app/app.component.html
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git cat-file -s 42409d9c8dc507c0771282c1a2f82881e5f89ae2
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/app/quote/quote.component.html
+> git ls-files --stage -- /home/jamal/quote/src/app/quote/quote.component.html
+> git cat-file -s 5f70300f514927e96efb1ca56eb6fb12163c2a3a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /home/jamal/quote/src/app/app.component.ts
+> git cat-file -s d2736de8353081e39e3b4a8c716625f8a34ff9ef
+> git check-ignore -v -z --stdin
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/jamal/quote/src/app/app.component.html
+> git cat-file -s 42409d9c8dc507c0771282c1a2f82881e5f89ae2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/quote/quote.component.html
+> git ls-files --stage -- /home/jamal/quote/src/app/quote/quote.component.html
+> git cat-file -s 5f70300f514927e96efb1ca56eb6fb12163c2a3a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/quote-detail/quote-detail.component.ts
+> git ls-files --stage -- /home/jamal/quote/src/app/quote-detail/quote-detail.component.ts
+> git cat-file -s 0064df2a80b89fe62f36b7b837e06ec0e44196bf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/quote/quote.component.html
+> git ls-files --stage -- /home/jamal/quote/src/app/quote/quote.component.html
+> git cat-file -s 5f70300f514927e96efb1ca56eb6fb12163c2a3a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/quote-detail/quote-detail.component.ts
+> git ls-files --stage -- /home/jamal/quote/src/app/quote-detail/quote-detail.component.ts
+> git cat-file -s 0064df2a80b89fe62f36b7b837e06ec0e44196bf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/quote/quote.component.ts
+> git ls-files --stage -- /home/jamal/quote/src/app/quote/quote.component.ts
+> git cat-file -s c2b65f797c4108ebf4f481f5865cff116b290279
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/quote/quote.component.html
+> git ls-files --stage -- /home/jamal/quote/src/app/quote/quote.component.html
+> git cat-file -s 5f70300f514927e96efb1ca56eb6fb12163c2a3a
+> git show :src/app/quote-detail/quote-detail.component.ts
+> git ls-files --stage -- /home/jamal/quote/src/app/quote-detail/quote-detail.component.ts
+> git cat-file -s 0064df2a80b89fe62f36b7b837e06ec0e44196bf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/quote/quote.component.html
+> git ls-files --stage -- /home/jamal/quote/src/app/quote/quote.component.html
+> git cat-file -s 5f70300f514927e96efb1ca56eb6fb12163c2a3a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/quote-detail/quote-detail.component.html
+> git ls-files --stage -- /home/jamal/quote/src/app/quote-detail/quote-detail.component.html
+> git cat-file -s d09e310f5d0dc0416e98d118786c9b4c1eed88c2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/quote-form/quote-form.component.ts
+> git ls-files --stage -- /home/jamal/quote/src/app/quote-form/quote-form.component.ts
+> git cat-file -s e01168862b25578c85f1c8aa337a7839d1eccf8d
+> git show :src/app/quote/quote.component.ts
+> git ls-files --stage -- /home/jamal/quote/src/app/quote/quote.component.ts
+> git cat-file -s c2b65f797c4108ebf4f481f5865cff116b290279
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/quote/quote.component.html
+> git ls-files --stage -- /home/jamal/quote/src/app/quote/quote.component.html
+> git cat-file -s 5f70300f514927e96efb1ca56eb6fb12163c2a3a
+> git show :src/app/quote-form/quote-form.component.html
+> git ls-files --stage -- /home/jamal/quote/src/app/quote-form/quote-form.component.html
+> git cat-file -s 169b1b5684ebd3f030ce254c992eb9065c057a24
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
