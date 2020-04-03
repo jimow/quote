@@ -4,3 +4,8 @@
     at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2623:21)
     at SimpleURLLoaderWrapper.emit (events.js:203:13)
 [2020-04-03 14:44:51.810] [main] [info] update#setState idle
+[2020-04-03 17:02:52.618] [main] [info] update#setState checking for updates
+[2020-04-03 17:02:52.646] [main] [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2623:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-04-03 17:02:52.646] [main] [info] update#setState idle
