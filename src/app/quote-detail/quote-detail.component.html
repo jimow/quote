@@ -1,4 +1,5 @@
-{{quote.author}} {{ quote.submitted_by }}<br />
+<br>
+<b>{{quote.author}} </b> <i>{{ quote.submitted_by }}</i><br /><br>
 <button class=" btn btn-info" (click)='voteUp()' type="submit">
     <span class="glyphicon glyphicon-thumbs-u" aria-hidden="true"></span>
   
@@ -9,5 +10,5 @@
   
     <span class="badge">{{downvote}} Dislikes</span>
   </button>
-
+<br /><br>
 <button (click)= 'quoteDelete(true)' class="btn btn-outline-danger">Delete Quote</button>
