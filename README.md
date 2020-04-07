@@ -1,3 +1,6 @@
+This is My IP Assignment for the first Week. Its an app for displaying quotes and adding new quotes.
+
+You can follow the link below to see the live app
 
 [https://jimow.github.io/quote/](https://jimow.github.io/quote/ "Jamals' IP Assignment")
 # Quote
