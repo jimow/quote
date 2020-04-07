@@ -1,3 +1,5 @@
+
+[This is my link for IP Assignment](https://https://jimow.github.io/quote/ "Jamals' IP Assignment")
 # Quote
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
